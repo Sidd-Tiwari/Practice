@@ -1,0 +1,26 @@
+body {
+    background-color: red;
+    padding: 20px;
+    margin: 5%;
+}
+
+.one{
+    color:white;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    margin: 2px 2px;
+}
+.two{
+    color:rgb(196, 26, 26);
+    background-color: rgb(216, 203, 203);
+    padding: 20px;
+    margin: 2px 2px;
+}
+.three{
+    color:white;
+    background-color: black;
+    padding: 20px;
+    text-align: end;
+    margin: 2px 2px;
+}
