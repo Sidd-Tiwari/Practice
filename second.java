@@ -1,2 +1,5 @@
-today 21 of september and i practice some basic oops concept code.
-  
+class CSE{
+  public static void main(String [] args){
+    system.out.println("Hello Siddhartha");
+  }
+}
